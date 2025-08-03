@@ -29,8 +29,7 @@ numerically simulating and optimising control fields for such systems. The contr
 
 This project has received financial support from the CNRS through the MITI interdisciplinary programs through its exploratory research program.
 
-![image](https://github.com/user-attachments/assets/309cc10a-1a5f-40ef-8b21-77fb82ffeab5)
-![image](https://github.com/user-attachments/assets/bfb956bd-ed09-4c51-92cd-688583ed7135)
-
+<img src="https://github.com/user-attachments/assets/309cc10a-1a5f-40ef-8b21-77fb82ffeab5" height="200">
+<img src="https://github.com/user-attachments/assets/bfb956bd-ed09-4c51-92cd-688583ed7135" height="200">
 
 [^1]:  Son, N. T. et al. Developing silicon carbide for quantum spintronics. *Appl. Phys. Lett.* **116**, 190501 (2020).
