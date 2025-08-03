@@ -3,7 +3,7 @@
 Colour centres are an innovative alternative for storing and processing quantum information under laboratory conditions that are
 much less restrictive than other quantum systems. In order to go beyond proof of concept, it is necessary to make the operation of colour centres
 more efficient and robust. The mathematical study of sets of coupled spins is based on optimal control theory, guided by the possibility of
-numerically simulating and optimising control fields for such systems. The control laws thus determined can be implemented The control laws thus determined can be implemented in the laboratory on a spin network using a state-of-the-art confocal microscope.
+numerically simulating and optimising control fields for such systems. The control laws thus determined can be implemented in the laboratory on a spin network using a state-of-the-art confocal microscope.
 
 ![image](https://github.com/user-attachments/assets/7f182994-fe58-478c-b512-46d594defe5a) [^1]
 
