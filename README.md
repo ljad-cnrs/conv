@@ -25,6 +25,10 @@ numerically simulating and optimising control fields for such systems. The contr
 
 [David Tinoco](https://team.inria.fr/mctao/team-members/), LJAD / McTAO
 
+## References
+
+TBC
+
 ## Joint project between Labo. J. A. Dieudonné (LJAD) and Labo. Interdisciplinaire Carnot de Bourgogne (ICB)
 
 This project has received financial support from the CNRS through the MITI interdisciplinary programs through its exploratory research program.
