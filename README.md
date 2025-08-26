@@ -27,7 +27,9 @@ numerically simulating and optimising control fields for such systems. The contr
 
 ## References
 
-TBC
+This project has been presented in the following conferences: 
+
+- 27ème Congrès Général de la Société Française de Physique (SFP), June 2025, "Control of multi-spin systems toward large-scale quantum technologies", poster
 
 ## Joint project between Labo. J. A. Dieudonné (LJAD) and Labo. Interdisciplinaire Carnot de Bourgogne (ICB)
 
